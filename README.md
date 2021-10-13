@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ankittrajj
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 👀 I’m ML enthusiast
+- 🌱 I’m currently learning how not to forget
+- 💞️ I’m looking to make machine learn everything
 - 📫 How to reach me ankittrajj1996@gmail.com
 
 <!---
