@@ -3,8 +3,8 @@
 - 🌱 I’m currently working as a System Business Analyst in Financial Domain to manage the finanace sheets and increase the company benifits to 20 % in a quater.
 - 💞️ I’m looking to make machine learn everything
 - 📫 You can connect me here ----> ankittrajj1996@gmail.com
-- https://www.linkedin.com/in/ankitraj512/
-- https://www.youtube.com/@ankitraj3180/videos
+- Linkedin ----------------------->https://www.linkedin.com/in/ankitraj512/
+- Youtube  ----------------------->https://www.youtube.com/@ankitraj3180/videos
 
 <!---
 ankittrajj/ankittrajj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
