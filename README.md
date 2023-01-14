@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankittrajj
 - 👀 I’m technical hobbyist
-- 🌱 I’m currently learning how not to forget
+- 🌱 I’m currently working as a System Business Analyst in Financial Domain to manage the finanace sheets and increase the company benifits to 20 % in a quater.
 - 💞️ I’m looking to make machine learn everything
 - 📫 How to reach me ankittrajj1996@gmail.com
 
